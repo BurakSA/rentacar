@@ -1,0 +1,2 @@
+class CreateCar < ApplicationRecord
+end
